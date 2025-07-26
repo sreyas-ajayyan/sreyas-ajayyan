@@ -29,7 +29,7 @@
 
 ### 📌 Featured Projects
 
-- 🔄 [Rotary Indexing Table](https://github.com/sreyas-ajayyan/rotary-indexing-table)
+- 🔄 [Rotary Indexing Table](https://github.com/sreyas-ajayyan/Rotary_Indexing_Table)
 - 🐟 AquaSwarm – Smart aquaculture with swarm robotics
 - 📦 IoT-Based Parcel Delivery Robot using QR codes
 - 🌿 Aquaponics Automation with Mobile Control
