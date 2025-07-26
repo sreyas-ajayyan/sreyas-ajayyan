@@ -13,7 +13,7 @@
   - 🌿 Automated aquaponics system with IoT integration
 - 🌱 Learning: ESP32, LoRa, ROS2, AI-based embedded vision
 - 💬 Ask me about: Arduino, IoT, CAD modeling, embedded logic
-- 📫 Reach me: sreyasajayyan@gmail.com
+- 📫 Reach me: sreyasajayyan2003@gmail.com
 
 ---
 
