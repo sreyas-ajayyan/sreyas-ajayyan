@@ -167,3 +167,5 @@ If it involves going from a rough idea to a thing that physically works, I'm in.
 ---
 
 *Still figuring out the best line to close this on — but for now: I like building things that don't stay stuck on a screen.*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer)
