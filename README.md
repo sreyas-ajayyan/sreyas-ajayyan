@@ -25,22 +25,21 @@ Lately I've been pushing past single embedded systems toward things that are **c
 
 ## 🔧 Technologies & Tools
 
+<div align="center">
+
 ![C](https://img.shields.io/badge/C-8E2DE2?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-6A1FD0?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4A00E0?style=for-the-badge&logo=python&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-8E2DE2?style=for-the-badge&logo=c&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-2A6FE8?style=for-the-badge&logo=flutter&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-1B9FEF?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-00C9FF?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-00C9FF?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-4A00E0?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-8E2DE2?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
-![Blynk](https://img.shields.io/badge/Blynk-00C9FF?style=for-the-badge&logo=blynk&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4A00E0?style=for-the-badge&logo=opencv&logoColor=white)
 ![Fusion360](https://img.shields.io/badge/Fusion%20360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8E2DE2?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 | Area | Technologies |
 |---|---|
