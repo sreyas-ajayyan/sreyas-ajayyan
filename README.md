@@ -45,11 +45,11 @@ Lately I've been pushing past single embedded systems toward things that are **c
 | Area | Technologies |
 |---|---|
 | **Embedded Systems** | Arduino, ESP32, ESP8266, STM32 |
-| **Programming** | C, C++, Embedded C, Python, Dart (Flutter) |
+| **Programming** | C (basics), C++ (basics), Embedded C (basics), Python (basics), Dart (Flutter) |
 | **App Development** | Flutter (mobile apps with hardware integration) |
 | **Robotics & Automation** | Motion control, sensor integration, autonomous navigation, automation mechanisms |
 | **Computer Vision** | OpenCV, YOLOv8 |
-| **Mechanical Design** | Fusion 360, 3D printing, SolidWorks (still leveling up here) |
+| **Mechanical Design** | Fusion 360 (basics), 3D printing, SolidWorks (beginner) |
 | **Connectivity** | Wi-Fi, MQTT, LoRa, ESP-NOW, SIM800L, GPS |
 | **IoT & Cloud** | Firebase, Blynk |
 | **Development Tools** | Git, GitHub, VS Code |
