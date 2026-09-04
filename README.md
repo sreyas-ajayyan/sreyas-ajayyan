@@ -1,11 +1,15 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=200&section=header&text=Sreyas%20Ajayyan&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Robotics%20%7C%20Embedded%20Systems%20%7C%20IoT&descAlignY=48&descSize=14&animation=fadeIn)
 
+<div align="center">
+
 ### Robotics & Automation Engineer
 **Embedded Systems · Robotics · IoT · Automation**
 
 [![Email](https://img.shields.io/badge/Email-Contact-8E2DE2?style=flat-square&logo=gmail&logoColor=white)](mailto:sreyasajayyan2003@gmail.com)
 [![India](https://img.shields.io/badge/Location-India-4A00E0?style=flat-square)](#)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00C9FF?style=flat-square)](#)
+
+</div>
 
 ---
 
