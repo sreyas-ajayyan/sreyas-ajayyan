@@ -58,10 +58,14 @@ Lately I've been pushing past single embedded systems toward things that are **c
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=sreyas-ajayyan&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyas-ajayyan&layout=compact&theme=radical&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sreyas-ajayyan&theme=radical&hide_border=true&background=1a1033&stroke=00C9FF&ring=8E2DE2&fire=4A00E0)
+
+</div>
 
 ---
 
@@ -187,8 +191,12 @@ If it involves going from a rough idea to a thing that physically works, I'm in.
 
 ## 📫 Let's Connect
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreyasajayyan2003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4A00E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreyas-ajayyan)
+
+</div>
 
 ---
 
