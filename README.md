@@ -41,6 +41,8 @@ Lately I've been pushing past single embedded systems toward things that are **c
 
 </div>
 
+<div align="center">
+
 | Area | Technologies |
 |---|---|
 | **Embedded Systems** | Arduino, ESP32, ESP8266, STM32 |
@@ -52,6 +54,8 @@ Lately I've been pushing past single embedded systems toward things that are **c
 | **Connectivity** | Wi-Fi, MQTT, LoRa, ESP-NOW, SIM800L, GPS |
 | **IoT & Cloud** | Firebase, Blynk |
 | **Development Tools** | Git, GitHub, VS Code |
+
+</div>
 
 ---
 
