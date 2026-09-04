@@ -1,6 +1,5 @@
-# Sreyas Ajayyan
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=180&section=header&text=Sreyas%20Ajayyan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%26%20Automation%20Engineer%20%7C%20Embedded%20Systems%20%7C%20IoT&descAlignY=58&descSize=18)
 
-### Robotics & Automation Engineer
 **Embedded Systems · Robotics · IoT · Automation**
 
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail)](mailto:sreyasajayyan2003@gmail.com)
@@ -25,26 +24,30 @@ I am particularly interested in moving from individual embedded systems toward *
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-005A9C?style=for-the-badge&logo=c&logoColor=white)
+![Dart/Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Blynk](https://img.shields.io/badge/Blynk-03C3DE?style=for-the-badge&logo=blynk&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Fusion360](https://img.shields.io/badge/Fusion%20360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-B71A1D?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 | Area | Technologies |
 |---|---|
-| **Embedded Systems** | Arduino, ESP32, STM32 |
-| **Programming** | C, C++, Embedded C, Python |
-| **Robotics & Automation** | Motion control, sensor integration, swarm robotics, automation mechanisms |
-| **Mechanical Design** | Fusion 360, SolidWorks, 3D printing |
-| **Connectivity** | Wi-Fi, MQTT, LoRa, ESP-NOW, SIM800L |
+| **Embedded Systems** | Arduino, ESP32, ESP8266, STM32 |
+| **Programming** | C, C++, Embedded C, Python, Dart (Flutter) |
+| **App Development** | Flutter (mobile apps with hardware integration) |
+| **Robotics & Automation** | Motion control, sensor integration, autonomous navigation, automation mechanisms |
+| **Computer Vision** | OpenCV, YOLOv8 |
+| **Mechanical Design** | Fusion 360, 3D printing, SolidWorks (beginner) |
+| **Connectivity** | Wi-Fi, MQTT, LoRa, ESP-NOW, SIM800L, GPS |
 | **IoT & Cloud** | Firebase, Blynk |
-| **Development Tools** | Git, GitHub |
+| **Development Tools** | Git, GitHub, VS Code |
 
 ---
 
@@ -59,31 +62,63 @@ I am particularly interested in moving from individual embedded systems toward *
 
 ## 🌟 Featured Projects
 
-### 🐟 AquaSwarm — Swarm Robotics for Aquaculture
-A multi-agent robotic system exploring swarm coordination for aquaculture monitoring and management. Demonstrates robotic design beyond a single autonomous unit, with coordination and distributed operation as core considerations.
+### 🎫 Queue Management App (Flutter + ESP32)
+A token booking app for institutes/public places, paired with an ESP32-based hardware controller. Two physical push buttons let the admin **skip** a token (move it to the next possible position) or mark the current one **served** and advance to the next.
 
-`Swarm Robotics` `Embedded Systems` `Multi-Agent Coordination`
+`Flutter` `ESP32` `Mobile App` `Hardware Integration` `Token Management`
+
+---
+
+### 🌊 Amphibious Water Cleaning Rover
+A transformable amphibious rover (STM32-based) for collecting floating waste from water bodies. Integrates LoRa communication, GPS, and water quality sensors for real-time environmental monitoring, autonomous navigation, and pollution analysis, with a land-to-water transformation mechanism for improved efficiency.
+
+`STM32` `LoRa` `GPS` `Water Quality Sensors` `Autonomous Navigation`
+
+---
+
+### ⛰️ Landslide Detection System
+An STM32-based hazard detection system using an SCA3300 accelerometer to monitor ground movement and detect abnormal vibrations. Embedded C firmware handles real-time sensor data acquisition and signal processing, with RTC-based timestamp logging for event tracking and alert generation.
+
+`STM32` `SCA3300 Accelerometer` `Embedded C` `Signal Processing` `Hazard Detection`
 
 ---
 
 ### 🔄 Rotary Indexing Table
-An Arduino-controlled precision indexing mechanism built around a custom mechanical structure and 3D-printed components, combining mechanical design with embedded control for repeatable indexed movement.
+An automated precision positioning system for manufacturing applications, built with Arduino and a stepper motor. Integrates a ULN2003 motor driver, belt drive mechanism, and custom 3D-printed components to achieve controlled 90° sequential rotation.
 
-`Arduino` `Motion Control` `Mechanical Design` `3D Printing`
-
----
-
-### 📦 IoT-Based Parcel Delivery Robot
-An autonomous delivery robot using QR-code-based navigation and identification, bringing together perception, decision logic, and robot mobility into an end-to-end delivery concept.
-
-`Robotics` `Embedded Systems` `QR-based Navigation` `Mobility`
+`Arduino` `Stepper Motor` `ULN2003` `3D Printing` `Motion Control`
 
 ---
 
-### 🌿 Automated Aquaponics System
-An IoT-enabled aquaponics system combining environmental sensing, actuation, mobile control, and remote monitoring, built for unattended operation with remote access to system information and controls.
+### 🚌 IoT-Based Smart Public Transportation System
+An integrated bus tracking and parking management system using an ESP8266, 28BYJ-48 stepper motor, ULN2003 driver, Ublox NEO-7M GPS module, and an IR sensor with an LM358 chip. Real-time location tracking via GPS and Blynk app integration displays latitude, longitude, and bus identity, with IR-sensor-based notifications for boom gate arrivals and app-controlled gate operations.
 
-`ESP32` `IoT` `Sensors & Actuators` `Firebase/Blynk`
+`ESP8266` `GPS` `Blynk` `IR Sensor` `Mobile App`
+
+---
+
+### 🚗 Vision-Based Vehicle Identification System
+A real-time vehicle detection and classification system using YOLOv8 (pretrained on COCO) with OpenCV for video frame capture and bounding-box/class-label display. Identifies cars, motorcycles, buses, and trucks for applications in traffic monitoring, autonomous driving, and urban planning.
+
+`YOLOv8` `OpenCV` `Computer Vision` `Python`
+
+---
+
+### 🐟 AquaSwarm — Aquaculture Monitoring & Robotic Cleaning
+A semi-autonomous amphibious robotic system for aquaculture monitoring and waste management. Sensing units monitor pH, water temperature, and TDS (Total Dissolved Solids), with GPS tracking to tie water-quality issues to specific locations. Sensor data is relayed over LoRa to a central/master unit, which runs AI-based pollution identification and directs a cleaning robot to problem areas for waste removal.
+
+**Architecture:** Water → Sensors → Local controller → LoRa → Master unit → Pollution analysis → Cleaning robot → Waste removal
+
+`LoRa` `GPS` `pH/TDS Sensors` `AI Pollution Detection` `Multi-Robot Coordination`
+
+---
+
+### 📦 Parcel Delivery Robot
+An autonomous delivery robot with GPS-based location tracking, ESP32-CAM for real-time visual monitoring, and a QR-code-based unlocking mechanism for secure parcel compartment access — so parcels aren't left exposed on arrival. Aimed at reducing manual last-mile delivery effort while improving parcel security, recording roughly a 60% reduction in manual delivery effort.
+
+**Architecture:** Delivery request → Navigation/location → Robot movement → GPS tracking → Destination → QR authentication → Compartment unlock → Parcel collection
+
+`ESP32-CAM` `GPS` `QR Authentication` `Autonomous Navigation`
 
 ---
 
@@ -95,7 +130,7 @@ When working on a robotics or automation problem, I focus on the complete system
 2. **Electronics & Embedded Control** — Select the controller, sensors, actuators, communication interfaces, and power requirements.
 3. **Firmware** — Develop reliable embedded software for control, sensing, communication, and system behaviour.
 4. **Connectivity** — Add Wi-Fi, MQTT, LoRa, ESP-NOW, or other communication methods when remote or distributed operation is required.
-5. **Application / Cloud Layer** — Connect the hardware to dashboards, mobile applications, or cloud services when the project requires monitoring or remote control.
+5. **Application Layer** — Connect the hardware to mobile apps (Flutter), dashboards, or cloud services when the project requires monitoring or remote control.
 6. **Testing & Iteration** — Prototype, test individual subsystems, identify failure points, and iterate toward a reliable working system.
 
 ---
@@ -106,21 +141,6 @@ When working on a robotics or automation problem, I focus on the complete system
 - 📶 **LoRa** for long-range, low-power wireless communication
 - 🤖 **ROS2** for robot software architecture and middleware
 - 👁️ **AI-based embedded vision** for perception and intelligent robotics
-
----
-
-## GitHub
-
-I use GitHub to document and maintain my engineering projects, experiments, and development work. For individual projects, I aim to make the repository useful beyond the source code by documenting:
-
-- Problem statement and project objective
-- Hardware and software requirements
-- System architecture
-- Wiring / connection details
-- Setup and installation steps
-- How the system works
-- Testing and limitations
-- Demonstrations and future improvements
 
 ---
 
