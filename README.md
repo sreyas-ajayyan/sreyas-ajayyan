@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=180&section=header&text=Sreyas%20Ajayyan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Robotics%20and%20Automation%20Engineer%20%7C%20Embedded%20Systems%20%7C%20IoT&descAlignY=58&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=200&section=header&text=Sreyas%20Ajayyan&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Robotics%20and%20Automation%20Engineer%20%7C%20Embedded%20Systems%20%7C%20IoT&descAlignY=48&descSize=15&animation=fadeIn)
 
 ### Robotics & Automation Engineer
 **Embedded Systems · Robotics · IoT · Automation**
