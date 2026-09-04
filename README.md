@@ -1,11 +1,11 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Sreyas%20Ajayyan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Robotics%20and%20Automation%20Engineer%20%7C%20Embedded%20Systems%20%7C%20IoT&descAlignY=58&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=180&section=header&text=Sreyas%20Ajayyan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Robotics%20and%20Automation%20Engineer%20%7C%20Embedded%20Systems%20%7C%20IoT&descAlignY=58&descSize=18&animation=fadeIn)
 
 ### Robotics & Automation Engineer
 **Embedded Systems · Robotics · IoT · Automation**
 
-[![Email](https://img.shields.io/badge/Email-Contact-0f2027?style=flat-square&logo=gmail&logoColor=white)](mailto:sreyasajayyan2003@gmail.com)
-[![India](https://img.shields.io/badge/Location-India-203a43?style=flat-square)](#)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2c5364?style=flat-square)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-8E2DE2?style=flat-square&logo=gmail&logoColor=white)](mailto:sreyasajayyan2003@gmail.com)
+[![India](https://img.shields.io/badge/Location-India-4A00E0?style=flat-square)](#)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00C9FF?style=flat-square)](#)
 
 ---
 
@@ -25,22 +25,22 @@ Lately I've been pushing past single embedded systems toward things that are **c
 
 ## 🔧 Technologies & Tools
 
-![C](https://img.shields.io/badge/C-0f2027?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-203a43?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2c5364?style=for-the-badge&logo=python&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-0f2027?style=for-the-badge&logo=c&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-203a43?style=for-the-badge&logo=flutter&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-2c5364?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-0f2027?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-203a43?style=for-the-badge&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-2c5364?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-0f2027?style=for-the-badge&logo=mqtt&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-203a43?style=for-the-badge&logo=firebase&logoColor=white)
-![Blynk](https://img.shields.io/badge/Blynk-2c5364?style=for-the-badge&logo=blynk&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-0f2027?style=for-the-badge&logo=opencv&logoColor=white)
-![Fusion360](https://img.shields.io/badge/Fusion%20360-203a43?style=for-the-badge&logo=autodesk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2c5364?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/C-8E2DE2?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-6A1FD0?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4A00E0?style=for-the-badge&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-8E2DE2?style=for-the-badge&logo=c&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-2A6FE8?style=for-the-badge&logo=flutter&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-1B9FEF?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-00C9FF?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-00C9FF?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-4A00E0?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-8E2DE2?style=for-the-badge&logo=mqtt&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![Blynk](https://img.shields.io/badge/Blynk-00C9FF?style=for-the-badge&logo=blynk&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4A00E0?style=for-the-badge&logo=opencv&logoColor=white)
+![Fusion360](https://img.shields.io/badge/Fusion%20360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8E2DE2?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 | Area | Technologies |
 |---|---|
@@ -58,10 +58,10 @@ Lately I've been pushing past single embedded systems toward things that are **c
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sreyas-ajayyan&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyas-ajayyan&layout=compact&theme=chartreuse-dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=sreyas-ajayyan&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyas-ajayyan&layout=compact&theme=radical&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sreyas-ajayyan&theme=dark&hide_border=true&background=0f2027&stroke=2c5364&ring=203a43&fire=2c5364)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sreyas-ajayyan&theme=radical&hide_border=true&background=1a1033&stroke=00C9FF&ring=8E2DE2&fire=4A00E0)
 
 ---
 
@@ -187,11 +187,11 @@ If it involves going from a rough idea to a thing that physically works, I'm in.
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreyasajayyan2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-203a43?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreyas-ajayyan)
+[![Email](https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreyasajayyan2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4A00E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreyas-ajayyan)
 
 ---
 
 *Still figuring out the best line to close this on — but for now: I like building things that don't stay stuck on a screen.*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=120&section=footer)
